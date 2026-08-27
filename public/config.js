@@ -1,7 +1,7 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_DEPLOYMENT_ENV": "mainnet",
-  "VITE_ORDERLY_BROKER_ID": "demo",
-  "VITE_ORDERLY_BROKER_NAME": "gliquid",
+  "VITE_ORDERLY_BROKER_ID": "goonerliquid",
+  "VITE_ORDERLY_BROKER_NAME": "goonerliquid",
   "VITE_BROKER_EOA_ADDRESS": "0x3b0bec2fb79698d14c49b7f6c03787468d9641d7",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "true",
@@ -15,7 +15,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
   "VITE_WALLETCONNECT_PROJECT_ID": "",
-  "VITE_APP_NAME": "gliquid",
+  "VITE_APP_NAME": "goonerliquid",
   "VITE_APP_DESCRIPTION": "Orderly Trading Application",
   "VITE_HAS_PRIMARY_LOGO": "false",
   "VITE_HAS_SECONDARY_LOGO": "false",
